@@ -17,3 +17,4 @@
       https://kivy.org/doc/stable/api-kivy.uix.image.html    нужно для картинок 
       https://www.geeksforgeeks.org/python-add-image-widget-in-kivy/ и это тоже 
   </oi>
+https://abrakadabra.fun/4684-anime-fon-komnata-spalnja-dnem.html
